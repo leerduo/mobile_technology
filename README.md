@@ -27,7 +27,8 @@
 
 ##目录
 ###common
-1. [git入门](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/common/git)
+1. [如何用好google(附翻墙方法)](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/tree/master/common/git)
+2. [git入门](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/tree/master/common/git)
 
 ###android
 
