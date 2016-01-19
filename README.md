@@ -7,33 +7,37 @@
 2. 打造一个良好的技术交流环境，提升技术
 3. 脱离苦逼加班，让程序猿告别右手时代，进入征服女神时代
 
-##交流群
-群号：
-> 299402133 
-
-入群验证问题：
-> Fragment 创建完成后和 Activity 间通信方式？
-
-期待拥抱共同梦想的你
+##开发工具
+- android studio
+- xcode、appcode
 
 ##要求
 - 遵循开源规范、代码规范
 - 必须拥有github账号，熟练使用git对代码进来管理
 - 需提出完善的解决方案并提供封装良好的库和demo
 
-##开发工具
-- android studio
-- xcode、appcode
+##期待拥抱共同梦想的你
+###加入方式
+> 在[issues #2](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/issues/2)填写你的邮箱
+
+###交流群
+群号：
+> 299402133 
+
+入群验证问题：
+> Fragment 创建完成后和 Activity 间通信方式？
 
 ##目录
 ###common
 1. [如何用好google(附翻墙方法)](http://www.dreamxuwj.com/2015/11/28/%E5%A6%82%E4%BD%95%E7%94%A8%E5%A5%BDGoogle%E3%80%81%E7%99%BE%E5%BA%A6%E7%AD%89%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/)
-2. [git入门](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/tree/master/common/git)
+2. [git、Github教程](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/tree/master/common/git)
+3. 开发中用的一些好工具
 
 ###android
 
+
 ###iOS
-1.[源码系列](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/blob/master/iOS/source-code-analysis/README.md)
+1. [源码系列](https://github.com/fanatic-mobile-developer-for-android/mobile_technology/blob/master/iOS/source-code-analysis/README.md)
 
 ##参与成员
-[小巫](https://github.com/devilWwj) [梦痕](https://github.com/xuwj) [墨香](https://github.com/yuchuangu85) [边城刀客](https://github.com/shuaqq) [kroc](https://github.com/linkaipeng) [卡卡](https://github.com/niuxinghua) 菜鸟 徐cc
+[小巫](https://github.com/devilWwj) [梦痕](https://github.com/xuwj) [墨香](https://github.com/yuchuangu85) [边城刀客](https://github.com/shuaqq) [kroc](https://github.com/linkaipeng) [卡卡](https://github.com/niuxinghua) [菜鸟](https://github.com/leerduo) 徐cc
